@@ -39,8 +39,3 @@ int _strcmp(char *s1, char *s2)
 	}
 	return (diff);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-
