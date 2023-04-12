@@ -14,7 +14,7 @@
 ssize_t read_textfile(const char *filename, size_t letters)
 {
 	 ssize_t open, read, write;
-	char *zagay;
+	char *mlaghbeb;
 
 	if (mlaghbeb == NULL)
 		return (0);
